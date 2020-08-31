@@ -9,8 +9,14 @@ and other descriptive statistics.
 ### socioPhysicsDataHandeler [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Joriswillems/socioPhysicsTUe/blob/master/sociophysicsDataHandler.ipynb)
 Explains how to load ProRails pedestrian trajectory data from the TU/e Research Drive using the sociophysicsDataHandler package. 
 
-### trajectory analysis [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Joriswillems/socioPhysicsTUe/blob/master/trajectory_analysis.ipynb)
+### Trajectory analysis [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Joriswillems/socioPhysicsTUe/blob/master/trajectory_analysis.ipynb)
 Explains how the pedestrian trajectory data works and shows how to do some basic operations like plotting trajectories and making a heatmap. 
 
 ### Pedestrian tracking from depth data images [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Joriswillems/socioPhysicsTUe/blob/master/localization.ipynb)
-In this notebook, we show how pedestrian trajectories can be obtained from image depth data by leveraging on a basic tracking algorithm. Furthermore, the notebook contains some visualizations and even movies! 
+In this notebook, we show how pedestrian trajectories can be obtained from image depth data by leveraging on a basic tracking algorithm. Furthermore, the notebook contains some visualizations and even movies!
+
+### Numerical integration using SciPy [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Joriswillems/socioPhysicsTUe/blob/master/Numerical_Integration_Using_SciPy.ipynb)
+This notebook shows how to perform numerical integration of definite integrals and simple ordinary differential equations (ODEs).
+
+
+
