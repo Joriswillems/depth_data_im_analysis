@@ -18,7 +18,7 @@ In this notebook, we show how pedestrian trajectories can be obtained from image
 ### Numerical integration using SciPy [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Joriswillems/socioPhysicsTUe/blob/master/Numerical_Integration_Using_SciPy.ipynb)
 This notebook shows how to perform numerical integration of definite integrals and simple ordinary differential equations (ODEs).
 
-Additional documents and information is provided on Canvas and on the [Teams](https://teams.microsoft.com/l/team/19%3ad1144e56d175449ab8fe9f14227d80b4%40thread.tacv2/conversations?groupId=bb51a959-160d-4edf-8d62-157cc3e875a4&tenantId=cc7df247-60ce-4a0f-9d75-704cf60efc64) page of the crouse.
+Additional documents and information is provided on [Canvas](https://canvas.tue.nl/courses/16621) and on the [Teams](https://teams.microsoft.com/l/team/19%3ad1144e56d175449ab8fe9f14227d80b4%40thread.tacv2/conversations?groupId=bb51a959-160d-4edf-8d62-157cc3e875a4&tenantId=cc7df247-60ce-4a0f-9d75-704cf60efc64) page of the crouse.
 
 
 
