@@ -1,6 +1,6 @@
 # Sociophysics 1 – 3QEUS0
 A collection of Jupyter notebooks for instructional purposes in the SocioPhysics 1 course taught at Eindhoven University of Technology. 
-Each notebooks teaches you how to perform tasks that will be useful in the SocioPhysics courses. Additional documents and information is provided on Canvas and Teams. <br/> <br/> <br/>
+Each notebooks teaches you how to perform tasks that will be useful in the SocioPhysics courses. Additional documents and information is provided on Canvas and Teams. <br/>
 
 ### socioPhysicsDataHandeler [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Joriswillems/socioPhysicsTUe/blob/master/sociophysicsDataHandler.ipynb)
 Explains how to install the sociophysicsDataHandler package and read the data. 
