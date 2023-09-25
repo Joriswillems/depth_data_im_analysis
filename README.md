@@ -8,6 +8,10 @@ Explains how to install the sociophysicsDataHandler package and read the data.
 ### Trajectory analysis [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Joriswillems/socioPhysicsTUe/blob/master/trajectory_analysis.ipynb)
 Introduction to the pedestrian trajectory data including basic operations like plotting trajectories and heatmaps. 
 
+
+### Train arrival data [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Joriswillems/socioPhysicsTUe/blob/master/train-arrival-data.ipynb)
+Introduction to the working with the train arrival data. 
+
 For an introduction on how to work with the social media/ stocks data see https://github.com/ValerioGemm/socioPhysicsTUe_econ.
 
 # Additional notebooks
